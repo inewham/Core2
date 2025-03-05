@@ -50,3 +50,7 @@ enable                         = 1
 pop_1                          = false
 
 
+[mks_file_picture_refresh]
+enable                         = 0
+
+
