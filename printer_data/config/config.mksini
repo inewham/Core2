@@ -31,7 +31,7 @@ name                           = aws
 
 
 [device_code]
-value                          = xfhh8u0v
+value                          = NULL
 
 
 [device_state]
