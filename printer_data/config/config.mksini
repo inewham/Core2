@@ -51,6 +51,6 @@ pop_1                          = false
 
 
 [mks_file_picture_refresh]
-enable                         = 0
+enable                         = 1
 
 
