@@ -43,7 +43,7 @@ time                           = 21988
 
 
 [led]
-enable                         = 0
+enable                         = 1
 
 
 [pops]
