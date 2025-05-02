@@ -35,7 +35,7 @@ value                          = xamc7v45
 
 
 [device_state]
-state                          = printing_0.62
+state                          = printing_0.63
 
 
 [total]
