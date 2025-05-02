@@ -19,7 +19,7 @@ enable                         = 0
 
 
 [mks_ethernet]
-enable                         = 0
+enable                         = 1
 
 
 [app_connection]
