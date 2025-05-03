@@ -6,7 +6,7 @@ enable                         = 1
 [target]
 extruder                       = 215
 heaterbed                      = 120
-hot                            = 55
+hot                            = 60
 
 
 [babystep]
