@@ -35,7 +35,7 @@ value                          = mwmutsuz
 
 
 [device_state]
-state                          = printing_0.46
+state                          = printing_0.48
 
 
 [total]
