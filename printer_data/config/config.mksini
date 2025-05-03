@@ -35,11 +35,11 @@ value                          = mwmutsuz
 
 
 [device_state]
-state                          = printing_0.94
+state                          = printing_0.97
 
 
 [total]
-time                           = 34755
+time                           = 34769
 
 
 [led]
