@@ -48,6 +48,7 @@ enable                         = 0
 
 [pops]
 pop_1                          = false
+pop_2                          = false
 
 
 [mks_file_picture_refresh]
