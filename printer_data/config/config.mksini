@@ -35,11 +35,11 @@ value                          = gxq0v80p
 
 
 [device_state]
-state                          = printing_0.93
+state                          = complete_1.00
 
 
 [total]
-time                           = 34834
+time                           = 34849
 
 
 [led]
