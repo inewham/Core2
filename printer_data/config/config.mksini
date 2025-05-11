@@ -35,7 +35,7 @@ value                          = 3d54nc03
 
 
 [device_state]
-state                          = printing_0.20
+state                          = printing_0.22
 
 
 [total]
