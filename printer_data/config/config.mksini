@@ -35,11 +35,11 @@ value                          = cvsq3gqb
 
 
 [device_state]
-state                          = printing_0.99
+state                          = complete_1.00
 
 
 [total]
-time                           = 38034
+time                           = 38279
 
 
 [led]
