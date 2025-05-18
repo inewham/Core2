@@ -35,11 +35,11 @@ value                          = 4a92qjzn
 
 
 [device_state]
-state                          = printing_0.99
+state                          = complete_1.00
 
 
 [total]
-time                           = 39101
+time                           = 39510
 
 
 [led]
