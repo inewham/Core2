@@ -35,7 +35,7 @@ value                          = 23qhk0yl
 
 
 [device_state]
-state                          = complete_1.00
+state                          = standby_1.00
 
 
 [total]
