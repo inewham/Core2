@@ -35,11 +35,11 @@ value                          = xe41wtux
 
 
 [device_state]
-state                          = printing_0.98
+state                          = printing_0.99
 
 
 [total]
-time                           = 45052
+time                           = 45097
 
 
 [led]
