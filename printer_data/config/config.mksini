@@ -35,11 +35,11 @@ value                          = nzt2yjxd
 
 
 [device_state]
-state                          = printing_0.37
+state                          = printing_0.40
 
 
 [total]
-time                           = 46355
+time                           = 46371
 
 
 [led]
