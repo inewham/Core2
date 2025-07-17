@@ -35,11 +35,11 @@ value                          = 9ve0c48g
 
 
 [device_state]
-state                          = printing_0.20
+state                          = printing_0.21
 
 
 [total]
-time                           = 46409
+time                           = 46423
 
 
 [led]
