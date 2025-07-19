@@ -35,7 +35,7 @@ value                          = qnwt5nxc
 
 
 [device_state]
-state                          = printing_0.90
+state                          = paused_0.80
 
 
 [total]
