@@ -35,7 +35,7 @@ value                          = r7pdpnxy
 
 
 [device_state]
-state                          = paused_0.73
+state                          = standby_0.00
 
 
 [total]
