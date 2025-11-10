@@ -35,7 +35,7 @@ value                          = n9eq6svm
 
 
 [device_state]
-state                          = printing_1.00
+state                          = standby_0.00
 
 
 [total]
