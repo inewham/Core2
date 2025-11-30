@@ -35,7 +35,7 @@ value                          = dp9unby1
 
 
 [device_state]
-state                          = printing_0.05
+state                          = paused_0.03
 
 
 [total]
